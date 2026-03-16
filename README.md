@@ -1,3 +1,3 @@
 DnB Forex Trading Bot - SOFTWARE RELEASES
 
-<a href="dnbforex.online">dnbforex.online</a>
+<a href="https://dnbforex.online/">dnbforex.online</a>
